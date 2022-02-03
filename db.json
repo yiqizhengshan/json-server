@@ -1,195 +1,42 @@
 {
-    "pokemons": [
+    "products": [
         {
-          "id": 1,
-          "num": 1,
-          "name": "bulbasaur",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "grass"
-              }
-            },
-            {
-              "slot": 2,
-              "type": {
-                "code": 2,
-                "name": "poison"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/1.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/1.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/1.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/1.png"
-            }
-          ],
-          "moves": {
-            "HM": [
-              "cut"
-            ]
-          }
+            "img": "https://gps.burgerkingencasa.es/images/products/1579087236693_Long_chicken.png",
+            "name": "Long Chicken",
+            "desc": "Pan de semilla alargado que alberga pollo crujiente empanado ligeramente especiado, lechuga y mayonesa."
+        }, 
+        {
+            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/13adbc63-d0b7-4fb4-804e-f6beea09928a_1080x943_Big+Mac.png?auto=compress,format",
+            "name": "Big Mac",
+            "desc": "Dos jugosas hamburguesas de carne 100% vacuno español, lechuga fresca y crujiente, cebolla, pepinillo, queso Cheddar fundido y nuestra inimitable salsa secreta. Todo esto envuelto en un nuevo pan de sésamo horneado al estilo tradicional."
         },
         {
-          "id": 2,
-          "num": 549,
-          "name": "lilligant",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "grass"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/549.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/549.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/549.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/549.png"
-            }
-          ],
-          "moves": {
-            "HM": null
-          }
+            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/66a6c8a8-2c99-4ff6-a8cc-d46485d5316d_producto-6.png?auto=compress,format",
+            "name": "Mc Pollo",
+            "desc": "Crujiente pollo con mayonesa y lechuga, en pan con semilla de sésamo"
         },
         {
-          "id": 3,
-          "num": 6,
-          "name": "charizard",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "fire"
-              }
-            },
-            {
-              "slot": 2,
-              "type": {
-                "code": 2,
-                "name": "flying"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/6.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/6.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/6.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/6.png"
-            }
-          ],
-          "moves": {
-            "HM": [
-              "fly"
-            ]
-          }
+            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/6dc6eef7-9aa6-4ad9-8e32-33a1d71818e6_021284086e58743ce4eff3d0f68e023e.png?auto=compress,format",
+            "name": "McWrap",
+            "desc": "Disfruta de nuestro delicioso Wrap de pollo crujiente con Bacon."
         },
         {
-          "id": 4,
-          "num": 50,
-          "name": "diglett",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "ground"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/50.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/50.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/50.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/50.png"
-            }
-          ],
-          "moves": {
-            "HM": null
-          }
+            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/713f5f5c-d75c-4337-90b8-4cb830b89d6f_1080x943_Menu%CC%814You_triple+cheeseburguer.png?auto=compress,format",
+            "name": "Triple Cheeseburger",
+            "desc": "La Cheeseburger triple existe, no es una broma. Tres carnes con kétchup, mostaza, cebolla, pepinillo y su delicioso queso Cheddar fundido."
         },
         {
-          "id": 5,
-          "num": 587,
-          "name": "emolga",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "electric"
-              }
-            },
-            {
-              "slot": 2,
-              "type": {
-                "code": 2,
-                "name": "flying"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/587.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/587.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/587.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/587.png"
-            }
-          ],
-          "moves": {
-            "HM": [
-              "surf"
-            ]
-          }
-        },
-        {
-          "id": 6,
-          "num": 60,
-          "name": "polywag",
-          "types": [
-            {
-              "slot": 1,
-              "type": {
-                "code": 1,
-                "name": "water"
-              }
-            }
-          ],
-          "images": [
-            {
-              "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/60.png",
-              "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/60.png"
-            },
-            {
-              "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/60.png",
-              "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/60.png"
-            }
-          ],
-          "moves": {
-            "HM": [
-              "surf"
-            ]
-          }
+            "img": "https://static.kfc.es/images/items/lg/41118.jpg?v=3QXXPg",
+            "name": "Alitas de pollo",
+            "desc": "Alitas de polloKFC."
         }
-      ]
+    ],
+
+    "users": [
+      {
+        "name": "Hola",
+        "password": "hola1234",
+        "mail": "hola@gmail.com"
+      }
+    ]
 }

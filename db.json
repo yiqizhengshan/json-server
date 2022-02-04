@@ -35,13 +35,11 @@
   "users": [
     {
       "id": "Hola",
-      "name": "Hola",
       "password": "hola1234",
       "mail": "hola@gmail.com"
     },
     {
       "id": "Yiqi",
-      "name": "Yiqi",
       "password": "admin0",
       "mail": "yiqiyt@gmail.com"
     }

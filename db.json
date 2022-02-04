@@ -1,42 +1,49 @@
 {
-    "products": [
-        {
-            "img": "https://gps.burgerkingencasa.es/images/products/1579087236693_Long_chicken.png",
-            "name": "Long Chicken",
-            "desc": "Pan de semilla alargado que alberga pollo crujiente empanado ligeramente especiado, lechuga y mayonesa."
-        }, 
-        {
-            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/13adbc63-d0b7-4fb4-804e-f6beea09928a_1080x943_Big+Mac.png?auto=compress,format",
-            "name": "Big Mac",
-            "desc": "Dos jugosas hamburguesas de carne 100% vacuno español, lechuga fresca y crujiente, cebolla, pepinillo, queso Cheddar fundido y nuestra inimitable salsa secreta. Todo esto envuelto en un nuevo pan de sésamo horneado al estilo tradicional."
-        },
-        {
-            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/66a6c8a8-2c99-4ff6-a8cc-d46485d5316d_producto-6.png?auto=compress,format",
-            "name": "Mc Pollo",
-            "desc": "Crujiente pollo con mayonesa y lechuga, en pan con semilla de sésamo"
-        },
-        {
-            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/6dc6eef7-9aa6-4ad9-8e32-33a1d71818e6_021284086e58743ce4eff3d0f68e023e.png?auto=compress,format",
-            "name": "McWrap",
-            "desc": "Disfruta de nuestro delicioso Wrap de pollo crujiente con Bacon."
-        },
-        {
-            "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/713f5f5c-d75c-4337-90b8-4cb830b89d6f_1080x943_Menu%CC%814You_triple+cheeseburguer.png?auto=compress,format",
-            "name": "Triple Cheeseburger",
-            "desc": "La Cheeseburger triple existe, no es una broma. Tres carnes con kétchup, mostaza, cebolla, pepinillo y su delicioso queso Cheddar fundido."
-        },
-        {
-            "img": "https://static.kfc.es/images/items/lg/41118.jpg?v=3QXXPg",
-            "name": "Alitas de pollo",
-            "desc": "Alitas de polloKFC."
-        }
-    ],
+  "products": [
+    {
+      "img": "https://gps.burgerkingencasa.es/images/products/1579087236693_Long_chicken.png",
+      "name": "Long Chicken",
+      "desc": "Pan de semilla alargado que alberga pollo crujiente empanado ligeramente especiado, lechuga y mayonesa."
+    },
+    {
+      "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/13adbc63-d0b7-4fb4-804e-f6beea09928a_1080x943_Big+Mac.png?auto=compress,format",
+      "name": "Big Mac",
+      "desc": "Dos jugosas hamburguesas de carne 100% vacuno español, lechuga fresca y crujiente, cebolla, pepinillo, queso Cheddar fundido y nuestra inimitable salsa secreta. Todo esto envuelto en un nuevo pan de sésamo horneado al estilo tradicional."
+    },
+    {
+      "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/66a6c8a8-2c99-4ff6-a8cc-d46485d5316d_producto-6.png?auto=compress,format",
+      "name": "Mc Pollo",
+      "desc": "Crujiente pollo con mayonesa y lechuga, en pan con semilla de sésamo"
+    },
+    {
+      "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/6dc6eef7-9aa6-4ad9-8e32-33a1d71818e6_021284086e58743ce4eff3d0f68e023e.png?auto=compress,format",
+      "name": "McWrap",
+      "desc": "Disfruta de nuestro delicioso Wrap de pollo crujiente con Bacon."
+    },
+    {
+      "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/713f5f5c-d75c-4337-90b8-4cb830b89d6f_1080x943_Menu%CC%814You_triple+cheeseburguer.png?auto=compress,format",
+      "name": "Triple Cheeseburger",
+      "desc": "La Cheeseburger triple existe, no es una broma. Tres carnes con kétchup, mostaza, cebolla, pepinillo y su delicioso queso Cheddar fundido."
+    },
+    {
+      "img": "https://static.kfc.es/images/items/lg/41118.jpg?v=3QXXPg",
+      "name": "Alitas de pollo",
+      "desc": "Alitas de polloKFC."
+    }
+  ],
 
-    "users": [
-      {
-        "name": "Hola",
-        "password": "hola1234",
-        "mail": "hola@gmail.com"
-      }
-    ]
+  "users": [
+    {
+      "id": "Hola",
+      "name": "Hola",
+      "password": "hola1234",
+      "mail": "hola@gmail.com"
+    },
+    {
+      "id": "Yiqi",
+      "name": "Yiqi",
+      "password": "admin0",
+      "mail": "yiqiyt@gmail.com"
+    }
+  ]
 }
